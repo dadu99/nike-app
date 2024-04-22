@@ -1,5 +1,7 @@
 # Nike landing page Tainwind + React + Vite
 
+I designed this nike app to specialize and familiarize myself with tailwind css
+
 
 ![nike-landing](https://github.com/dadu99/nike-tailwind-app/assets/132062954/93fcca6d-23f7-43b1-b31e-b538f14257b6)
 
