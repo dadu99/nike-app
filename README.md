@@ -1,4 +1,4 @@
-# Nike landing page Tainwind + React + Vite
+# Nike landing page
 
 I designed this nike app to specialize and familiarize myself with tailwind css
 
