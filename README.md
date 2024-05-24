@@ -3,7 +3,7 @@
 I designed this nike app to specialize and familiarize myself with tailwind css
 
 
-![nike-landing](https://github.com/dadu99/nike-tailwind-app/assets/132062954/93fcca6d-23f7-43b1-b31e-b538f14257b6)
+![localhost_5173_ (1)](https://github.com/dadu99/nike-tailwind-app/assets/132062954/65c4b74c-cb26-415d-8124-ba877d8fa5d7)
 
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
